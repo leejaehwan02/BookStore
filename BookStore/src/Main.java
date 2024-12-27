@@ -8,3 +8,7 @@ public class Main {
         System.out.println("시스템이 종료되었습니다.");
     }
 }
+
+/*
+    깃 테스트용 주석입니다.
+ */
